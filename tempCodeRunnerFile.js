@@ -1,0 +1,1 @@
+let booleanisLogged  = boolean (booleanisLogged);
